@@ -17,9 +17,13 @@ autenticidade em seus projetos.
 O objetivo geral deste trabalho é a criação de um portal de ferramentas de fácil uso e que permita a criação e o gerenciamento
 de projetos de portifólios.
 Como objetivos específicos, podemos ressaltar:
+
     ● Fornecer Ferramentas para incerção de imagens, textos e videos em seus projetos.
+    
     ● Gerar links de seus trabalhos para envios a terceiros para visualização.
+    
     ● Permite a criação de forma autentica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser.
+    
 
 ## Justificativa
 
