@@ -1,6 +1,6 @@
 # Introdução
 
-Atualmente, para um fotografo, designer entre outros artistas, se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos, no entanto as ferramentas atualmente disponíveis no mercado são em sua maioria, pagas, e nem sempre entregam a possibilidade de alteração de acordo com sua necessidade.
+Atualmente, para um fotografo, designer, entre outros artistas, se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos, no entanto as ferramentas atualmente disponíveis no mercado são em sua maioria, pagas, e nem sempre entregam a possibilidade de alteração de acordo com sua necessidade.
 
 As mais conhecidas ferramentas, trazem consigo, meios de aplicação para criação de portifólios genéricos e semelhantes uns aos outros, fazendo com que os artistas de certa forma sejam comparados uns aos outros por pessoas leigas no assunto, clientes e contratantes que não conhecem especificamente da área, enfatizando defeitos e qualidades entre eles que não definem de fato o trabalho, e que não dão espaço para a criatividade fluir naturalmente.
 
@@ -17,9 +17,9 @@ O objetivo geral deste trabalho é a criação de um portal de ferramentas de f�
 de projetos de portifólios.
 Como objetivos específicos, podemos ressaltar:
 
-   ● Fornecer Ferramentas para incerção de imagens, textos e videos em seus projetos.
-   ● Gerar links de seus trabalhos para envios a terceiros para visualização.
-   ● Permite a criação de forma autentica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser.
+      ● Fornecer Ferramentas para incerção de imagens, textos e videos em seus projetos.
+      ● Gerar links de seus trabalhos para envios a terceiros para visualização.
+      ● Permite a criação de forma autentica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser.
     
 
 ## Justificativa
