@@ -1,10 +1,10 @@
 # Introdução
 
-Atualmente, para um fotografo, designer entre outros artistas, se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos, no entanto as ferramentas atualmente disponíveis no mercado são em sua maioria, pagas, e nem sempre te dão uma ampla possibilidade de alteração de acordo com sua necessidade.
+Atualmente, para um fotografo, designer entre outros artistas, se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos, no entanto as ferramentas atualmente disponíveis no mercado são em sua maioria, pagas, e nem sempre entregam a possibilidade de alteração de acordo com sua necessidade.
 
-As mais conhecidas ferramentas, trazem consigo, meios de aplicação para criação de portifólios genéricos, e semelhantes uns aos outros, fazendo com que os artistas de certa forma sejam comparados uns aos outros por pessoas leigas no assunto, clientes e contratantes que não conhecem especificamente da área, enfatizando defeitos e qualidades entre eles que não definem de fato o trabalho, e que não dão espaço para a criatividade fluir naturalmente.
+As mais conhecidas ferramentas, trazem consigo, meios de aplicação para criação de portifólios genéricos e semelhantes uns aos outros, fazendo com que os artistas de certa forma sejam comparados uns aos outros por pessoas leigas no assunto, clientes e contratantes que não conhecem especificamente da área, enfatizando defeitos e qualidades entre eles que não definem de fato o trabalho, e que não dão espaço para a criatividade fluir naturalmente.
 
-Contudo, se faz necessário que existam meios e ferramentas para criação de um portifólio mais autênticos e correspondentes as especificações de cada artista.
+Contudo, se faz necessário que existam meios e ferramentas para criação de um portifólios mais autênticos e correspondentes as especificações de cada artista.
 
 
 ## Problema 
