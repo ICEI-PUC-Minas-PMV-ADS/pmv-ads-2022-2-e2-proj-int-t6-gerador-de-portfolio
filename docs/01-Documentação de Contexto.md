@@ -22,7 +22,9 @@ Como objetivos específicos, podemos ressaltar:
 
       ● Fornecer Ferramentas para inserção de imagens, textos e vídeos em seus projetos.
       ● Permitir alteração e edição de seus trabalhos sem limitação de tamanho.
-      ● Permite a criação de forma autêntica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser, movendo imagens, texto ou vídeo para qualquer local na tela, dimensionando a interface a sua escolha.
+      ● Permite a criação de forma autêntica, sem padrões para que o usuário seja livre para 
+      manter seu portifólio da forma que quiser, movendo imagens, texto ou vídeo para qualquer local na tela, 
+      dimensionando a interface a sua escolha.
     
 
 ## Justificativa
