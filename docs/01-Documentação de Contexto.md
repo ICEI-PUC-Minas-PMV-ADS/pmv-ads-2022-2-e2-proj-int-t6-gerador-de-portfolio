@@ -16,20 +16,19 @@ Conforme foi introduzido, o problema que se busca resolver com este projeto é a
 sites tradicionais de criação de portifólio têm para os usuários que buscam autenticidade em seus projetos.
 
 ## Objetivos 
-O objetivo geral deste trabalho é a criação de um portal de ferramentas de fácil uso e que permita a criação e o gerenciamento
+O objetivo geral deste trabalho é a criação de um portal com ferramentas de fácil acesso, que permita a criação e o gerenciamento
 de projetos de portifólios.
 Como objetivos específicos, podemos ressaltar:
 
-      ● Fornecer Ferramentas para incerção de imagens, textos e videos em seus projetos.
-      ● Gerar links de seus trabalhos para envios a terceiros para visualização.
-      ● Permite a criação de forma autentica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser.
+      ● Fornecer Ferramentas para inserção de imagens, textos e vídeos em seus projetos.
+      ● Permitir alteração e edição de seus trabalhos sem limitação de tamanho.
+      ● Permite a criação de forma autêntica, sem padrões para que o usuário seja livre para manter seu portifólio da forma que quiser, movendo imagens, texto ou vídeo para qualquer local na tela, dimensionando a interface a sua escolha.
     
 
 ## Justificativa
 
-Durante os últimos anos, vimos como a necessidade de artistas e desenvolvedores de criarem o seu próprio portifólio subiu excessivamente, substituindo seus currículos, as empresas contratantes exigem muito mais destes, uma documentação visual que mostre suas habilidades na área. Contudo, muitos sites nasceram, fornecendo ferramentas para facilitar a vida destas pessoas, porém, com o intuito de lucrar por autenticidade, quanto maior a alteração, maior o valor, e com isso os artistas ficam fadados a criar algo visualmente semelhante aos outros.
+Durante os últimos anos, percebemos como a necessidade de criação de portifólios para artistas tem sido obrigatória devido as demandas das grandes empresas. Os Contratantes exigem muito mais documentações visuais que mostrem nitidamente seus trabalhos ao invés de certificados, que por sua vês não são anulados, mas que acabaram perdendo seu valor na área. Diante desta necessidade, foram desenvolvidas várias ferramentas de implementação de portifólio, na tentativa de centralizarem assim como LinkedIn e outros, os trabalhadores da área. Porém, com isso a grande maioria dos artistas são fadados a interfaces semelhantes e inevitavelmente a comparação pública de seus trabalhos. A arte, é algo mais complexo do que isso, e deve ser tratada individualmente com respeito e seriedade que cada um merece, diante disso, esta ferramenta vem para dar liberdade aos artistas, para criarem suas páginas com a interface que desejarem.
 
 ## Público Alvo -
 
-Embora todos possam utilizar desta ferramenta, o intuito é especificamente voltado para artistas e desenvolvedores que necessitam de maior autenticidade e liberdade para criarem seus portifólios.
-
+Embora o intuito da ferramenta seja especificamente voltado para artistas e desenvolvedores que necessitam de maior autenticidade e liberdade para criação de seus portifólios, ela será uma ferramenta de uso livre, para todos que tiverem interesse.
