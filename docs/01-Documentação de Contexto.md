@@ -1,10 +1,13 @@
 # Introdução
 
-Atualmente, para um fotografo, designer, entre outros artistas, se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos, no entanto as ferramentas atualmente disponíveis no mercado são em sua maioria, pagas, e nem sempre entregam a possibilidade de alteração de acordo com sua necessidade.
+Atualmente, para um fotografo, designer, modelador 3D e entre outros artistas,
+se faz extremamente necessário a criação de um portifólio para apresentação de seus trabalhos. No entanto, as ferramentas atualmente disponíveis no mercado são, em sua maioria, pagas ou limitadas em suas versões gratuitas, dificultando a entrada de novos artistas ainda sem renda, ou privando antigos artistas em suas versões gratuitas e padronizadas.
 
-As mais conhecidas ferramentas, trazem consigo, meios de aplicação para criação de portifólios genéricos e semelhantes uns aos outros, fazendo com que os artistas de certa forma sejam comparados uns aos outros por pessoas leigas no assunto, clientes e contratantes que não conhecem especificamente da área, enfatizando defeitos e qualidades entre eles que não definem de fato o trabalho, e que não dão espaço para a criatividade fluir naturalmente.
+As ferramentas mais utilizadas pelo mercado em portifólios, entregam métodos e interfaces padronizadas, pouco personalizáveis.
+Contudo, tendo suas artes padronizadas em meio a um mundo de artistas habilidosos, os novatos acabam sendo comparados e certamente marginalizados dentre os grandes artistas. O mesmo acontece entre artistas mais antigos e experientes, que por sua vez tem estilos diferentes, e acabam ficando à mercê de olhos menos apurados para a área.
 
-Contudo, se faz necessário que existam meios e ferramentas para criação de um portifólios mais autênticos e correspondentes as especificações de cada artista.
+Contudo, se faz necessário que existam meios e ferramentas para a criação de portifólios mais autênticos e correspondentes as expectativas de cada artista.
+
 
 
 ## Problema 
